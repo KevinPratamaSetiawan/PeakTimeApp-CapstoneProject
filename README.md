@@ -16,7 +16,7 @@
     <br />
     <a href="https://docs.google.com/document/d/1E9jB7hi0P4qzsLbwm6e5B5x7Xv6RWSoM5SDi0f9DBw8/edit?usp=sharing" target="_blank">Project Brief</a>
     ·
-    <a href="#" target="_blank">PeakTime APK Link</a>
+    <a href="https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/PeakTime.apk" target="_blank">PeakTime APK Link</a>
     ·
     <a href="https://www.youtube.com/watch?v=YqUfl7UrQpo" target="_blank">Video Presentation</a>
     ·
