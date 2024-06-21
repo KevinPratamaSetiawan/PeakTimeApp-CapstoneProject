@@ -3,6 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Logo%20PeakTime.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Logo%20PeakTime.png' type='image'></a>
   <h1 align="center">PeakTime</h1>
   <h2 align="center">Personalized Schedules for Optimal Performance</h2>
   
@@ -57,6 +58,17 @@
 - Productivity Boost: Achieve more in less time, improving work-life balance.
 - Comprehensive: Combines the functionalities of a robust calendar with advanced chronotype-based scheduling, all in one app.
 
+<br>
+
+# Project Architecture
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Cloud%20Architecture.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Cloud%20Architecture.png' type='image'></a>
+
+# Project Screenshot
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Login.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Login.png' type='image'></a>
+<br>
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainMenu.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainMenu.png' type='image'></a>
+<br>
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainFeature.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainFeature.png' type='image'></a>
 <br>
 
 # Documentation
