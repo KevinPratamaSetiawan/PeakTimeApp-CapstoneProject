@@ -3,22 +3,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Logo%20PeakTime.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Logo%20PeakTime.png' type='image'></a>
+  <a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Logo%20PeakTime.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Logo%20PeakTime.png' type='image' target="_blank"></a>
   <h1 align="center">PeakTime</h1>
   <h2 align="center">Personalized Schedules for Optimal Performance</h2>
   
   <p align="center">
-  This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
+  This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/" target="_blank"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
    Program.
     <br />
-    <a href="https://github.com/KevinPratamaSetiawan/PeakTime-APP-Project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/KevinPratamaSetiawan/PeakTime-APP-Project" target="_blank"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://docs.google.com/document/d/1E9jB7hi0P4qzsLbwm6e5B5x7Xv6RWSoM5SDi0f9DBw8/edit?usp=sharing" target="_blank">Project Brief</a>
     ·
     <a href="#" target="_blank">PeakTime APK Link</a>
     ·
-    <a href="#" target="_blank">Video Presentation</a>
+    <a href="https://www.youtube.com/watch?v=YqUfl7UrQpo" target="_blank">Video Presentation</a>
     ·
     <a href="https://www.canva.com/design/DAGIpkysAhA/2HrBG-7uFVAXvOgbH3MjrQ/edit?utm_content=DAGIpkysAhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Presentation Slide</a>
     <br />
@@ -35,13 +35,13 @@
 
 | Name                           | Student ID   | Path                | Contact                                                                                                                                                                                  |
 | ------------------------------ | -----------  | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Leonardo Alfontus Mende Sirait | M119D4KY3013 | Machine Learning    | <a href="https://www.linkedin.com/in/leonardoamsirait/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                 |
-| Imanuel Uneputty               | M012D4KY3208 | Machine Learning    | <a href="https://www.linkedin.com/in/imanueluneputty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                  |
-| Rayhan Ahmad Rizalullah        | M119D4KY1813 | Machine Learning    | <a href="https://www.linkedin.com/in/rayhanahmadr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                     |
-| Kevin Pratama Setiawan         | C119D4KY0131 | Cloud Computing     | <a href="https://www.linkedin.com/in/kevin-pratama-setiawan-159060258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-| Mike Jared Gunawan             | C001D4KY0333 | Cloud Computing     | <a href="https://www.linkedin.com/in/mikejared/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                        |
-| Abdullah Rizky Adam Safero     | A012D4KY3782 | Mobile Development  | <a href="https://www.linkedin.com/in/abdrizkyfero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                     |
-| Luh Komang Devi Savitri        | A012D4KX4121 | Mobile Development  | <a href="https://www.linkedin.com/in/luhkomangdevi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                    |
+| Leonardo Alfontus Mende Sirait | M119D4KY3013 | Machine Learning    | <a href="https://www.linkedin.com/in/leonardoamsirait/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                 |
+| Imanuel Uneputty               | M012D4KY3208 | Machine Learning    | <a href="https://www.linkedin.com/in/imanueluneputty/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                  |
+| Rayhan Ahmad Rizalullah        | M119D4KY1813 | Machine Learning    | <a href="https://www.linkedin.com/in/rayhanahmadr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                     |
+| Kevin Pratama Setiawan         | C119D4KY0131 | Cloud Computing     | <a href="https://www.linkedin.com/in/kevin-pratama-setiawan-159060258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+| Mike Jared Gunawan             | C001D4KY0333 | Cloud Computing     | <a href="https://www.linkedin.com/in/mikejared/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                        |
+| Abdullah Rizky Adam Safero     | A012D4KY3782 | Mobile Development  | <a href="https://www.linkedin.com/in/abdrizkyfero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                     |
+| Luh Komang Devi Savitri        | A012D4KX4121 | Mobile Development  | <a href="https://www.linkedin.com/in/luhkomangdevi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                    |
 
 <br>
 
@@ -61,14 +61,14 @@
 <br>
 
 # Project Architecture
-<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Cloud%20Architecture.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Cloud%20Architecture.png' type='image'></a>
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Cloud%20Architecture.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Cloud%20Architecture.png' type='image' target="_blank"></a>
 
 # Project Screenshot
-<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Login.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Login.png' type='image'></a>
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Login.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/Login.png' type='image' target="_blank"></a>
 <br>
-<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainMenu.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainMenu.png' type='image'></a>
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainMenu.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainMenu.png' type='image' target="_blank"></a>
 <br>
-<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainFeature.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainFeature.png' type='image'></a>
+<a href='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainFeature.png'><img src='https://github.com/KevinPratamaSetiawan/PeakTimeApp-CapstoneProject/blob/main/Image/MainFeature.png' type='image' target="_blank"></a>
 <br>
 
 # Documentation
